@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Pathmaster">
+    <file>lo.png</file>
+    <file>icons8-multiply-90.png</file>
+  </qresource>
+</RCC>
